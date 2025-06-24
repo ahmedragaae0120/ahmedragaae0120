@@ -1,3 +1,10 @@
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedragaae0120&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ahmedragaae0120&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedragaae0120&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmedragaae0120&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
+
 # 💫 About Me:
 👋 Hi, I'm Ahmed Ragaa, a passionate Flutter Developer with a strong background in computer science and a focus on mobile app development.<br><br>🔭 I’m currently working on:<br>Developing innovative mobile applications<br><br>👯 I’m looking to collaborate on:<br>Exciting mobile and desktop application projects, especially those that push the boundaries of what's possible with Flutter.<br><br>🤝 I’m looking for help with:<br>Improving performance and optimizing state management in complex Flutter applications, as well as expanding my knowledge of clean architecture patterns.<br><br>🌱 I’m currently learning:<br>Advanced Flutter techniques, API integration, MVVM, MVI architecture patterns, and best practices for cross-platform app development.<br><br>💬 Ask me about:<br>Anything related to Flutter, Firebase integration, state management using Provider and GetX and cubit, and how to create seamless user experiences.<br><br>⚡ Fun fact:<br>When I’m not coding, I enjoy diving deep into video games<br><br>
 
@@ -7,13 +14,6 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedragaae0120&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ahmedragaae0120&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedragaae0120&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedragaae0120&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
